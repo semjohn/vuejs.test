@@ -1,4 +1,4 @@
-# test.ts
+# vuejs.test
 
 ## Project setup
 ```
